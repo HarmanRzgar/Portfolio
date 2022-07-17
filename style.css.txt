@@ -1,0 +1,115 @@
+.navbar {
+  
+  background-color: darkcyan !important;
+  
+}
+
+.navbar a {
+  
+  color: white !important;
+  text-decoration: none;
+  border-radius: 25px;
+  padding: 10px;
+}
+
+.navbar a:hover {
+  background-color: #415d5c;
+  
+}
+
+
+.header {
+  margin: 20px;
+  flex-wrap: wrap;
+  background-color: #e29c45;
+  border-radius: 30px;
+}
+
+h1 {
+   
+  margin: 20px;
+  padding: 10px;
+  font-size: 70px !important;
+  
+}
+
+.header .btn {
+  border-radius: 30px;
+  margin: 20px;
+  background-color: darkcyan;
+  color: white;
+  
+}
+
+.header .btn:hover {
+  
+  background-color: #415d5c;
+  
+}
+
+.aboutbody {
+  background-color: #e29c45;
+  color: white;
+  padding: 20px;
+  margins 50px;
+}
+
+.about {
+  margin: 20px;
+  padding: 20px;
+  background-color: #e29c45;
+  border-radius: 20px;
+}
+
+
+.navbar-brand {
+  
+  font-family: courier;
+  font-color: white !important;
+  text-properties: none;
+  
+}
+
+.skillsheader {
+  
+  display: flex;
+  justify-content: center;
+  background-color: darkcyan;
+  margin: 20px;
+padding: 20px; 
+  color: white;
+  font-size: 30px;
+}
+
+
+.skills {
+  background-color: darkcyan;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 20px;
+}
+
+.skillsbody {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.skillsbody img {
+  
+  width: 120px;
+  height: auto;
+  
+}
+
+.aboutheader {
+  display: flex;
+  justify-content: center;
+  color: white;
+  
+}
+
+.aboutbody {
+  font-size: 20px;
+  font-family: verdana;
+}
